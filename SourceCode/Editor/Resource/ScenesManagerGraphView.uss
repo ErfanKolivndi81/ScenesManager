@@ -1,0 +1,11 @@
+﻿GridBackground {
+    --grid-background-color: #282828;
+    --line-color: rgba(200, 200, 200, 0.1);
+    --thick-line-color: rgba(70, 70, 70, 0.1);
+    --spacing: 10;
+}
+
+ScenesManagerGraphView
+{
+    background-color: #282828;
+}

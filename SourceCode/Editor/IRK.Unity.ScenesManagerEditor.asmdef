@@ -1,0 +1,17 @@
+{
+    "name": "IRK.Unity.ScenesManagerEditor",
+    "references": [
+        "GUID:a53231483ed41d643a8f0bd87ae779d7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
